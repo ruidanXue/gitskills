@@ -1,7 +1,3 @@
 hi
 i am xrd
-<<<<<<< HEAD
 I am 24 years old.
-=======
-I am 24 years old.
->>>>>>> feature1
