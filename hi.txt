@@ -8,3 +8,6 @@ I'm 22 years old.
 i am chinese.
 How about you?
 end line.
+薛瑞丹
+大连理工大学
+电信学部
