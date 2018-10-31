@@ -6,3 +6,5 @@ my name is xrd.
 what's your age?
 I'm 22 years old.
 i am chinese.
+How about you?
+end line.
